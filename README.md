@@ -1,4 +1,4 @@
-### Olá! Eu sou O Danilo Borim
+### Olá! Eu sou o Danilo Borim
 
 - 🔭 I’m currently studying
 - 🌱 I’m currently learning JavaScript
