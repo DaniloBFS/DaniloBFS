@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Danilo Borim
 
-- 🔭 I’m currently studying
+- 🔭 I’m a Web Developer
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: daniloborimfelix20@gmail.com
 -->
