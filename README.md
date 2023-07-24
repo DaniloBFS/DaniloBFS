@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Danilo Borim
 
 - 🔭 I’m a Web Developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently working with PHP
 - 📫 How to reach me: daniloborimfelix20@gmail.com
 -->
 
