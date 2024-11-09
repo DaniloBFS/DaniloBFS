@@ -1,7 +1,7 @@
-### Olá! Eu sou o Danilo Borim
+### Hello! I am Danilo Borim
 
 - 🔭 I’m a Web Developer
-- 🌱 I’m currently working with PHP and ReactJS
+- 🌱 I’m currently working with Laravel and ReactJS
 - 📫 How to reach me: daniloborimfelix20@gmail.com
 -->
 
